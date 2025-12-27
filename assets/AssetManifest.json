@@ -1,0 +1,41 @@
+{
+  "assets/plugins/font_plugin.js": [
+    "assets/plugins/font_plugin.js"
+  ],
+  "assets/plugins/menu_plugin.js": [
+    "assets/plugins/menu_plugin.js"
+  ],
+  "assets/plugins/examples/button_example.js": [
+    "assets/plugins/examples/button_example.js"
+  ],
+  "assets/plugins/examples/checkbox_example.js": [
+    "assets/plugins/examples/checkbox_example.js"
+  ],
+  "assets/plugins/examples/container_example.js": [
+    "assets/plugins/examples/container_example.js"
+  ],
+  "assets/plugins/examples/dropdown_example.js": [
+    "assets/plugins/examples/dropdown_example.js"
+  ],
+  "assets/plugins/examples/image.png": [
+    "assets/plugins/examples/image.png"
+  ],
+  "assets/plugins/examples/image_example.js": [
+    "assets/plugins/examples/image_example.js"
+  ],
+  "assets/plugins/examples/input_example.js": [
+    "assets/plugins/examples/input_example.js"
+  ],
+  "assets/plugins/examples/label_example.js": [
+    "assets/plugins/examples/label_example.js"
+  ],
+  "assets/plugins/examples/list_table_example.js": [
+    "assets/plugins/examples/list_table_example.js"
+  ],
+  "assets/plugins/examples/modal_example.js": [
+    "assets/plugins/examples/modal_example.js"
+  ],
+  "assets/plugins/examples/slider_example.js": [
+    "assets/plugins/examples/slider_example.js"
+  ]
+}
