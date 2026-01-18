@@ -3,9 +3,6 @@ name: Plugin Validation
 on:
   pull_request:
     branches: [dev]
-    paths:
-      - 'assets/plugins/**'
-      - 'pluginspec.yml'
 
 jobs:
   validate:
