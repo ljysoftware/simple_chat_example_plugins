@@ -1,12 +1,7 @@
 plugins:
-  - name: example_plugin
+  - name: sample_plugin
     version: 1.0.0
-    url: assets/plugins/font_plugin.js
-    description: An example plugin for demonstration purposes.
-    author: LJY Software
-
-  - name: theme_plugin
-    version: 1.0.0
-    url: assets/plugins/theme_plugin.js
-    description: A plugin to change the app theme.
-    author: LJY Software
+    assets:
+      - assets/plugins/font_plugin.js 
+      - assets/plugins/theme_plugin.js
+    description: A sample plugin for demonstration purposes.
