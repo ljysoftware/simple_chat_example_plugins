@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: ljysoftware/simple_chat_plugin_cli
-          ref: hotfix/API_URL-logic # Only for testing. Need to be returned to dev after testing.
+          ref: dev # This could be changed to main after deployment.
           path: cli
 
       - name: Setup Python
